@@ -133,9 +133,6 @@ Tunnel config mapping hostnames to local services:
 | Device                  | OS      | Status                          |
 |-------------------------|---------|----------------------------------|
 | `server` (this Pi)      | Linux   | ✅ Active                        |
-| `parrot`                | Linux   | ✅ Active (relay: Bangalore)     |
-| `saqlain-mustaqs-s21`   | Android | 🔴 Offline (last seen 3d ago)   |
-| `ubuntu`                | Linux   | 🔴 Offline (last seen 17d ago)  |
 
 - Provides secure peer-to-peer access between personal devices
 - SSH access over Tailscale — no public SSH exposure
